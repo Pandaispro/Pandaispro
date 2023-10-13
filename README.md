@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*e3jNfHQGTe7f7ptGpa74yA.png)]
 <h1 align="center">Hi 👋, I'm Dynamic Panda</h1>
-<h3 align="center">A Graphic Designer and Custom Rom Maintainer from India</h3>
+<h3 align="center">A Graphic Designer and a Custom Rom Maintainer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **Custom Rom Development**
