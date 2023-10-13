@@ -3,7 +3,7 @@
 <h3 align="center">A Graphic Designer and a Custom Rom Maintainer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Custom Rom Development**
+- 🔭 I’m currently working on **Rom Development**
 
 - 🌱 I’m currently learning **Java,Python**
 
